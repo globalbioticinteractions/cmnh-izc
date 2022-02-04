@@ -1,5 +1,6 @@
 { 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
+  "format": "dwca",
+  "citation": "Carnegie Invertebrate Zoology Collection",
+  "url": "",
   "deprecated": false
 }
