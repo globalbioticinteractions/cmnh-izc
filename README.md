@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/globalbioticinteractions/cmnh-izc.svg)](https://travis-ci.org/globalbioticinteractions/cmnh-izc) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/cmnh-izc)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/cmnh-izc) 
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/cmnh-izc)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/cmnh-izc) 
 
 This repository provides an example on how to make your interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) .
 
